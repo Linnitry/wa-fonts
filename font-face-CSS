@@ -1,6 +1,0 @@
-@font-face {
- font-family: timor-ttf;
- font-style: normal;
- font-weight: 400;
- src: url(https://rawcdn.githack.com/Linnitry/wa-fonts/08462b8eb49473d11ca2ed33cd05ef3a119985f9/font-face-CSS);
-}
